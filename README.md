@@ -3,7 +3,7 @@
 -   Đây là kiểu note lại cá nhân nhưng được public, không hẳn dùng để share
 -   Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐
 -   Nếu bạn là chủ của các nội dung dưới đây và có vấn đề về việc chia sẻ _(chỉnh sửa thông tin, update, yêu cầu xoá...)_ Thì hãy tạo Issue ở repo này. Xin cảm ơn vì đã chia sẻ 💖
-
+-   Hầu hết link chết, nếu có vấn đề với list thì hãy liên hệ với chủ list
 # TABLE OF CONTENTS
 
 -   [ENTERTAINMENT ](#entertainment--)
