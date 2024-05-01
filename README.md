@@ -83,13 +83,6 @@
                         alt="coocaa"
                 /></a>
             </td>
-            <td>
-                <a href="../../raw/m3u/playlists/coocaa.m3u"
-                    ><img
-                        src="https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge"
-                        alt="coocaa m3u"
-                /></a>
-            </td>
             <td>Henry Vo</td>
         </tr>
         <tr>
