@@ -88,10 +88,10 @@
                 /></a>
             </td>
             <td>
-                <a href="../../raw/m3u/playlists/vthanhtivi.m3u"
+                <a "
                     ><img
-                        src="https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge"
-                        alt="vthanhtivi m3u"
+                        src=
+                        alt=
                 /></a>
             </td>
             <td>Thành</td>
@@ -106,10 +106,10 @@
                 /></a>
             </td>
             <td>
-                <a href="../../raw/m3u/playlists/coocaa.m3u"
+                <a "
                     ><img
-                        src="https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge"
-                        alt="coocaa m3u"
+                        src=""
+                        alt=""
                 /></a>
             </td>
             <td>Henry Vo</td>
