@@ -74,28 +74,6 @@
             <th><b>M3U URL</b></th>
             <th><b>OWNER</b></th>
         </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="http://vthanhtivi.pw"><b>vthanhtivi</b></a>
-            </td>
-            <td>
-                <a href="https://playlist.vthanhtivi.pw"
-                    ><img
-                        src="https://img.shields.io/badge/vthanhtivi-red?style=for-the-badge"
-                        alt="vthanhtivi"
-                /></a>
-            </td>
-            <td>
-                <a href="../../raw/m3u/playlists/vthanhtivi.m3u"
-                    ><img
-                        src="https://img.shields.io/badge/vthanhtivi-m3u-red?style=for-the-badge"
-                        alt="vthanhtivi m3u"
-                /></a>
-            </td>
-            <td>Thành</td>
-        </tr>
         <tr>
             <td><b>coocaa</b></td>
             <td>
