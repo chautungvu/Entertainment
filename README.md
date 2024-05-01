@@ -89,9 +89,7 @@
             </td>
             <td>
                 <a "
-                    ><img
-                        src=
-                        alt=
+                   
                 /></a>
             </td>
             <td>Thành</td>
